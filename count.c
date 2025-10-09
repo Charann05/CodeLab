@@ -30,5 +30,8 @@ int main()
         printf("Element %d repeats %d times.\n", a[i], count);
         }
     }
+    free(visited);
+    free(a);
     return 0;
+
 }
