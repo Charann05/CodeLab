@@ -1,6 +1,7 @@
 //This program checks if the given array is sorted or not.
 
 #include<stdio.h>
+#include<stdlib.h>
 
 int main()
 {
@@ -18,6 +19,8 @@ int main()
             return 0;
         }
     }
-    printf("Array is sorted");    
+    printf("Array is sorted");
+    free(a);
     return 0;
+
 }
