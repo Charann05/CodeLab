@@ -25,6 +25,7 @@ int main()
     for(int i=0;i<n;i++){
         printf("%d ", a[i]);
     }
-    return 0;
     free(a);
+    return 0;
 }
+
