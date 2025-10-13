@@ -1,4 +1,4 @@
-//This program coverts the given decimal value to binary.
+//This program converts the given decimal value to binary.
 
 #include<stdio.h>
 
@@ -14,4 +14,5 @@ int main()
         a = a/2;
     }
     printf("%d", bin);
+
 }
