@@ -1,4 +1,4 @@
-// This is a "HackerRank problem" focused on bitwise operations.
+// This is a "HackerRank" problem focused on bitwise operations.
 
 #include <stdio.h>
 
@@ -32,3 +32,4 @@ int main() {
  
     return 0;
 }
+
