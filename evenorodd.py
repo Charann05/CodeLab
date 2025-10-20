@@ -1,4 +1,4 @@
-//This program tells if the given number is Even or Odd.
+#This program tells if the given number is Even or Odd.
 
 n = int(input("Enter a number : "))
 if(n%2==0):
@@ -6,3 +6,4 @@ if(n%2==0):
 else:
 
     print("The numberr is Odd")
+
