@@ -1,4 +1,4 @@
-//This program gives the largest and second largest element of the given array.
+//This program gives the largest and second largest element in the given array.
 
 package Java_Samples;
 import java.util.Scanner;
@@ -34,3 +34,4 @@ public class largestn {
     }
     
 }
+
