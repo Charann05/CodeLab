@@ -8,8 +8,8 @@ int main()
 {
     char a[100];
     printf("Enter a string: ");
-    scanf("%s", &a);
-    printf("%[^\n]%*c",a); //this format specifier is used to accept a string with spaces(string should be written in a single line)
+    //scanf("%s", &a);
+    scanf("%[^\n]%*c",a); //this format specifier is used to accept a string with spaces(string should be written in a single line)
     int m = length(a,0);
     printf("Length is: %d", m);
     return 0;
@@ -26,4 +26,5 @@ int length(char a[], int index)
         l++;
         length(a,index+1);
     }
+
 }
