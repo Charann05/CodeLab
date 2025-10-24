@@ -10,7 +10,7 @@ public class prime {
         int n = sc.nextInt();
         sc.close();
 
-        if(n<=0){
+        if(n<=1){
             System.out.println(n+" is not Prime");
         }
         
@@ -30,3 +30,4 @@ public class prime {
         }
     }
 }
+
