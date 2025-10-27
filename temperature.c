@@ -1,3 +1,5 @@
+// This program converts a given temperature between Celsius and Fahrenheit.
+
 #include<stdio.h>
 
 int main(){
@@ -27,4 +29,5 @@ int main(){
     }
 
     return 0;
+
 }
