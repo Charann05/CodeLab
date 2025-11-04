@@ -1,4 +1,4 @@
-//This program gives the frequency of each number in a given array.
+//This program gives the count of each number in a given array.
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -35,3 +35,4 @@ int main()
     return 0;
 
 }
+
