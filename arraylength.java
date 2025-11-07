@@ -1,3 +1,5 @@
+//This program displays the length of the array.
+
 package Java_Samples;
 
 public class arraylength {
@@ -8,3 +10,4 @@ public class arraylength {
     }
     
 }
+
