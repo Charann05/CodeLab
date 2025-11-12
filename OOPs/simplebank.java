@@ -1,3 +1,5 @@
+//This program simulates a simple banking system allowing account details display, deposits, withdrawals, and balance checking for predefined accounts.
+
 package Java_Samples.OOPS;
 
 import java.util.Scanner;
@@ -116,3 +118,4 @@ public class simplebank {
     }   
     
 }
+
