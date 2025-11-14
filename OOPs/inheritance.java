@@ -1,3 +1,4 @@
+//This program demonstrates method overloading and multilevel inheritance to calculate areas of different shapes.
 
 package Java_Samples.OOPS;
 
@@ -40,3 +41,4 @@ public class inheritance {
     }
     
 }
+
