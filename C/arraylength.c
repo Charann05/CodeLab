@@ -1,4 +1,4 @@
-//This program finds the length of an array using sizeof.
+//This program finds the length of an array using sizeof operator.
 
 #include<stdio.h>
 
