@@ -12,7 +12,7 @@ public class preparedST {
 		PreparedStatement myStmt = null;
 		ResultSet myRs = null;
                 Properties props = new Properties();
-                try (InputStream input = updateDB.class.getResourceAsStream("/db.properties")) {
+                try (InputStream input = preparedST.class.getResourceAsStream("/db.properties")) {
                     if (input == null) {
                         System.out.println("db.properties not found!");
                         return;
@@ -76,3 +76,4 @@ public class preparedST {
 		}
 	}
 }
+
