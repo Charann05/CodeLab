@@ -1,3 +1,5 @@
+// This program demonstrates how to insert a new employee record into a database using JDBC.
+
 package jdbctest;
 
 
@@ -73,4 +75,5 @@ public class insertDB {
 	}
 
 }
+
 
