@@ -1,3 +1,4 @@
+// This program performs a DELETE operation on the employees table using JDBC.
 
 package jdbctest;
 
@@ -120,4 +121,5 @@ public class deleteDB {
 		close(null, myStmt, myRs);
 	}	
 }
+
 
