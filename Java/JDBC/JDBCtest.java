@@ -1,3 +1,4 @@
+// This program demonstrates JDBC connectivity by reading database configuration from a properties file and retrieving employee details.
 
 package jdbctest;
 
