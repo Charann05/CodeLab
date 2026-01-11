@@ -1,3 +1,5 @@
+// This program demonstrates how to use a PreparedStatement to execute a parameterized query and reuse it with different values.
+
 package jdbctest;
 
 import java.io.InputStream;
@@ -76,4 +78,5 @@ public class preparedST {
 		}
 	}
 }
+
 
