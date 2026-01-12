@@ -1,3 +1,5 @@
+// This program demonstrates a JDBC transaction with commit/rollback by deleting HR employees and updating Engineering salaries based on user confirmation.
+
 package jdbctest;
 
 import java.io.InputStream;
@@ -130,3 +132,4 @@ public class transaction {
 		close(null, myStmt, myRs);
 	}
 }
+
