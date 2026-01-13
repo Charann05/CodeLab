@@ -1,3 +1,4 @@
+// This program updates an employee record in the database using JDBC.
 
 package jdbctest;
 
@@ -110,4 +111,5 @@ public class updateDB {
 		close(null, myStmt, myRs);
 	}	
 }
+
 
