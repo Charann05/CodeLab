@@ -1,4 +1,4 @@
-// This program performs basic array operations on an array of cities.
+//This program performs basic array operations on an array of cities.
 
 let cities = ["New York", "Los Angeles", "Chicago", "Miami", "Houston"];
 console.log("Total number of cities : "+cities.length);
@@ -12,4 +12,5 @@ cities.shift();
 console.log("Cities after performing push operation : "+cities);
 
 let index = cities.indexOf("Miami");
+
 console.log("The index of Miami is : ",index);
