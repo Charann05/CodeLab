@@ -1,3 +1,4 @@
+//This program demonstrates abstraction in Java.
 
 import java.util.Scanner;
 
@@ -110,3 +111,4 @@ public class abstraction {
         sc.close();
     }
 }
+
