@@ -1,4 +1,4 @@
-//Program to perform Linear Search on an array.
+// Program to perform Linear Search on an array.
 
 import java.util.Scanner;
 
