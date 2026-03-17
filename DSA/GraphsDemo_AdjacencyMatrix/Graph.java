@@ -1,3 +1,5 @@
+// Graph implementation using an adjacency matrix for a directed graph.
+
 package GraphsDemo_AdjacencyMatrix;
 
 import java.util.ArrayList;
