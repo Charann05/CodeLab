@@ -40,21 +40,6 @@ class Result {
             countO++;
         }
     }
-    // int i = 0;
-    // while(i<apples.size() || i<oranges.size()){
-    //     if(i<apples.size()){
-    //         if(apples.get(i)+a>=s && apples.get(i)+a<=t){
-    //             countA++;
-    //         }
-    //     }
-        
-    //     if(i<oranges.size()){
-    //         if(oranges.get(i)+b>=s && oranges.get(i)+b<=t){
-    //             countO++;
-    //         }
-    //     }
-    //     i++;
-    // }
     
     System.out.println(countA);
     System.out.println(countO);
