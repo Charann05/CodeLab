@@ -1,4 +1,4 @@
-package DFS_Demo;
+package BFS_Demo;
 
 public class Main {
     public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class Main {
 
         graph.print();
 
-        graph.depthFirstSearch(3);
+        graph.breadthFirstSearch(1);
 
     }
 }
