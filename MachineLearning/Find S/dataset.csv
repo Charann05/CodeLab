@@ -1,0 +1,5 @@
+CGPA,Interactiveness,Practical Knowledge,Communication Skills,Logical Thinking,Interest,Job Offer
+>=9,Y,Excellent,Good,Fast,Y,Y
+>=9,Y,Good,Good,Fast,Y,Y
+>=8,N,Good,Good,Fast,N,N
+>=9,Y,Good,Good,Slow,N,Y
